@@ -1,0 +1,9 @@
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\bin\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.deps.json
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\bin\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.dll
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\bin\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.pdb
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.csprojAssemblyReference.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.AssemblyInfoInputs.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.AssemblyInfo.cs
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.csproj.CoreCompileInputs.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.dll
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.Infrustructure\obj\Release\netcoreapp3.1\Medlatec.Revenue.Infrustructure.pdb

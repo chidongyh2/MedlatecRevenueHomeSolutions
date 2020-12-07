@@ -1,0 +1,9 @@
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\bin\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.deps.json
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\bin\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.dll
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\bin\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.pdb
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.csprojAssemblyReference.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.AssemblyInfoInputs.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.AssemblyInfo.cs
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.csproj.CoreCompileInputs.cache
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.dll
+E:\Medlatec\RevenueSolutions\Medlatec.Revenue.IdentityServer\obj\Debug\netcoreapp3.1\Medlatec.Revenue.IdentityServer.pdb
