@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medlatec.Revenue.Infrustruc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medlatec.Revenue.Identity", "Medlatec.Revenue.Identity", "{FC146342-EED5-4534-831E-2B93BB3BB362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medlatec.Revenue.IdentityServer", "Medlatec.Revenue.IdentityServer\Medlatec.Revenue.IdentityServer.csproj", "{5B71EFF7-8706-4578-B108-AF73DEC03780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medlatec.Revenue.IdentityServer", "Medlatec.Revenue.IdentityServer\Medlatec.Revenue.IdentityServer.csproj", "{5B71EFF7-8706-4578-B108-AF73DEC03780}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E6B3BC3-AE68-4C7C-8EA9-BC09CD73E3DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

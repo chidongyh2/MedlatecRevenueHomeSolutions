@@ -15,3 +15,4 @@ D:\Medlatec\Medlatec_Develop\MedlatecRevenueHomeSolutions\Medlatec.Revenue.Infru
 D:\Medlatec\Medlatec_Develop\MedlatecRevenueHomeSolutions\Medlatec.Revenue.Infrustructure\obj\Debug\netcoreapp3.1\Medlatec.Revenue.Infrustructure.csproj.CoreCompileInputs.cache
 D:\Medlatec\Medlatec_Develop\MedlatecRevenueHomeSolutions\Medlatec.Revenue.Infrustructure\obj\Debug\netcoreapp3.1\Medlatec.Revenue.Infrustructure.dll
 D:\Medlatec\Medlatec_Develop\MedlatecRevenueHomeSolutions\Medlatec.Revenue.Infrustructure\obj\Debug\netcoreapp3.1\Medlatec.Revenue.Infrustructure.pdb
+D:\Medlatec\Medlatec_Develop\MedlatecRevenueHomeSolutions\Medlatec.Revenue.Infrustructure\obj\Debug\netcoreapp3.1\Medlatec.Revenue.Infrustructure.csprojAssemblyReference.cache
