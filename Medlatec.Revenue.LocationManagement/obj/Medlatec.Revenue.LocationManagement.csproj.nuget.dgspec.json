@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj": {}
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj": {}
   },
   "projects": {
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+        "projectUniqueName": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
         "projectName": "Medlatec.Revenue.IdentityServer",
-        "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
-        "packagesPath": "C:\\Users\\QUYNV\\.nuget\\packages\\",
-        "outputPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
+        "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+        "outputPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\QUYNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityServer4": {
               "target": "Package",
@@ -76,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj": {
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj",
+        "projectUniqueName": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj",
         "projectName": "Medlatec.Revenue.Infrustructure",
-        "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj",
-        "packagesPath": "C:\\Users\\QUYNV\\.nuget\\packages\\",
-        "outputPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\obj\\",
+        "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj",
+        "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+        "outputPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\QUYNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,6 +107,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -116,6 +119,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityModel.AspNetCore.OAuth2Introspection": {
               "target": "Package",
@@ -148,24 +152,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj": {
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj",
+        "projectUniqueName": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj",
         "projectName": "Medlatec.Revenue.LocationManagement",
-        "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj",
-        "packagesPath": "C:\\Users\\QUYNV\\.nuget\\packages\\",
-        "outputPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.LocationManagement\\obj\\",
+        "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.LocationManagement\\Medlatec.Revenue.LocationManagement.csproj",
+        "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+        "outputPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.LocationManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\QUYNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,12 +181,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
-                "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj"
+              "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
+                "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj"
               },
-              "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj": {
-                "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj"
+              "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj": {
+                "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.Infrustructure\\Medlatec.Revenue.Infrustructure.csproj"
               }
             }
           }
@@ -195,6 +200,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityServer4.AccessTokenValidation": {
               "target": "Package",
@@ -219,6 +225,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -227,7 +239,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1388,7 +1388,7 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.5.0": {
-      "sha512": "O4tqXxWCD8y1IU1VTgzbuBFwoRahrADhDUxHjwezhHCsqyFNyQ5EytjWBxu0EsZuH14b4UO2pFkG063K2h/9Ug==",
+      "sha512": "WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "type": "package",
       "path": "system.security.cryptography.cng/4.5.0",
       "files": [
@@ -1481,23 +1481,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\QUYNV\\.nuget\\packages\\": {},
+    "C:\\Users\\ngova\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+      "projectUniqueName": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
       "projectName": "Medlatec.Revenue.IdentityServer",
-      "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\QUYNV\\.nuget\\packages\\",
-      "outputPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
+      "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+      "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+      "outputPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\QUYNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1509,6 +1509,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -1520,6 +1521,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "IdentityServer4": {
             "target": "Package",
@@ -1556,7 +1558,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

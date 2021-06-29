@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {}
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {}
   },
   "projects": {
-    "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
+    "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+        "projectUniqueName": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
         "projectName": "Medlatec.Revenue.IdentityServer",
-        "projectPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
-        "packagesPath": "C:\\Users\\QUYNV\\.nuget\\packages\\",
-        "outputPath": "E:\\Medlatec\\RevenueSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
+        "projectPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\Medlatec.Revenue.IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+        "outputPath": "D:\\Medlatec\\Medlatec_Develop\\MedlatecRevenueHomeSolutions\\Medlatec.Revenue.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\QUYNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityServer4": {
               "target": "Package",
@@ -76,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
